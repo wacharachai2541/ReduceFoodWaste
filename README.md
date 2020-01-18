@@ -1,2 +1,1 @@
-# ReduceFoodWaste
-bot
+# LINE-BOT-PHP-Starter
